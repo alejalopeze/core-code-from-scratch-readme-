@@ -1,6 +1,6 @@
 <h1 align="center">Bootcamp</h1>
 
-## Index...
+## Index....
 
 1. [Week 1](#1-week-1)
 2. [Week 2](#1-week-2)
