@@ -1,6 +1,6 @@
 <h1 align="center">Introduction to programming & Javascript - Week 1</h1>
   
-<h3>Pseudocode currency converter</h3>
+<h3>'Pseudocode currency converter'</h3>
 
 ```
  START
