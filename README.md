@@ -22,5 +22,10 @@
 
 
 ## 1. Week 1
+ START
+  Valor <-- GET
+  BTC <-- GET FROM(https://www.coindesk.com/price/bitcoin/)
+  PRINT Amount * BTCprice
+ END
 
 ## 2. Week 2
