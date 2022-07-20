@@ -2,7 +2,7 @@
 
 ## Index
 
-1. Week 1 :[Introduction to programming & Javascript](src/Technologies/week01)
+1. Week 1: [Introduction to programming & Javascript](src/Technologies/week01)
 2. [Week 2](#1-week-2)
 3. [Week 3](#1-week-3)
 4. [Week 4](#1-week-4)
