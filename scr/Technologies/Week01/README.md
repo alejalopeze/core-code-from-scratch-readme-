@@ -1,5 +1,5 @@
-<h1> 1. Week 1</h1
-  >
+<h1 align="center">Introduction to programming & Javascript - Week 1</h1>
+  
 <h3>Pseudocode currency converter</h3>
 
 ```
