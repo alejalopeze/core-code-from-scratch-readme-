@@ -3,7 +3,7 @@
 ## Index
 
 1. Week 1: [Introduction to programming & Javascript](src/Technologies/week01)
-2. <a href='src/Technologies/week01'>link</a>
+2. <a href='src/Technologies/Week01'>link</a>
 3. [Week 3](#1-week-3)
 4. [Week 4](#1-week-4)
 5. [Week 5](#1-week-5)
