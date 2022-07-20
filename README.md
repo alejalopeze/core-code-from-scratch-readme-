@@ -22,7 +22,7 @@
 
 
 ## 1. Week 1
-<h2>Pseudocode currency converter</h2>
+<h3>Pseudocode currency converter</h3>
 
 ```
  START
