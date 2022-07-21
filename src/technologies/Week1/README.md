@@ -3,7 +3,7 @@
   
   
  ## Tuesday
- ***
+ 
 <h3>Pseudocode currency converter</h3>
 
 ```
@@ -13,3 +13,4 @@
   PRINT (Valor * BTC)
  END
 ```
+***
