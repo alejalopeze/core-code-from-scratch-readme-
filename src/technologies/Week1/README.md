@@ -2,7 +2,7 @@
 <h1 align="center">Introduction to programming & Javascript - Week 1</h1>
   
   
- ##Tuesday
+ ## Tuesday
 <h3>Pseudocode currency converter</h3>
 
 ```
