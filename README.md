@@ -1,6 +1,6 @@
 <h1 align="center">Bootcamp</h1>
 
-## Index...
+## Index
 
 1. Week 1: [Introduction to programming & Javascript](src/technologies/Week1)
 2. <a href='src/technologies/Week1'>link</a>
