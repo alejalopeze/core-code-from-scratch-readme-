@@ -6,7 +6,15 @@
  
 <h3>Interpreted And Compiled Programming Languages</h3>
  
- <p>En un lenguaje compilado, la máquina de destino traduce directamente el programa. En un idioma interpretado, el código fuente no es traducido directamente por la máquina de destino. En cambio, un programa diferente , también conocido como el intérprete, lee y ejecuta el código.</p>
+ <p>In a compiled language, the target machine directly translates the program. In an interpreted language, the source code is not directly translated by the target machine. Instead, a different program, aka the interpreter, reads and executes the code.</p>
+
+<h3>Is Java compiled or interpreted, or both?</h3>
+
+<p>Java is both compiled and interpreted language. Java program is first compiled into bytecode which JRE can understand. ByteCode is then interpreted by the JVM making it as interpreted language.</p>
+
+<h3>High and Low level languages</h3>
+
+<p>High-level languages require the use of a compiler or an interpreter for their translation into the machine code. Low-level language requires an assembler for directly translating the instructions of the machine language. These languages have a very low memory efficiency.</p>
 
 <h3>Pseudocode currency converter</h3>
 
