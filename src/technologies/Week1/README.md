@@ -21,8 +21,8 @@
 <h3>MIPS</h3> 
 
 <h4>Create a program that adds any two given numbers provided by the user</h4>
+
 ```
- 
   .data
 	      number1: .asciiz "\nIngrese el primer numero: "
 	      number2: .asciiz "\nIngrese el segundo numero: "
@@ -63,6 +63,7 @@
               la $a0, message
               syscall
 ```
+
 ***
 
 ## Thursday
