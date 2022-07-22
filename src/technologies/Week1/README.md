@@ -16,6 +16,9 @@
 ***
 ## Wednesday
 
+<h3>Your date of birth in the matrix?</h3> 
+
+<h3>MIPS</h3> 
 ***
 
 ## Thursday
