@@ -16,6 +16,10 @@
 ***
 ## Wednesday
 
+***
+
+## Thursday
+
 <h3>Print special numbers</h3> 
 
 ```javascript
@@ -62,5 +66,4 @@ if (n == 100) {
 }
 ```
 ***
-## Thursday
-***
+
