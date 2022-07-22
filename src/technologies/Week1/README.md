@@ -19,6 +19,17 @@
 <h3>Your date of birth in the matrix?</h3> 
 
 <h3>MIPS</h3> 
+
+```
+ .data
+        message: .asciiz "\nNelson, Beltran!\n"
+  .text
+        main:
+              li $v0, 4
+              la $a0, message
+              syscall
+```
+
 ***
 
 ## Thursday
