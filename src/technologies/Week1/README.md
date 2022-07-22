@@ -35,7 +35,7 @@ if ((cond==true)) {
 }
 ```
 
-<h4>OR</h4>
+<h4>Or</h4>
 
 ```javascript
 var cond = false;
