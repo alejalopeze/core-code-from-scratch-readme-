@@ -24,6 +24,7 @@ for (var i=0; i<101;i++){
 }
 ```
 <h3>Bad Code</h3> 
+
 ```javascript
 var cond = false;
 
@@ -33,7 +34,9 @@ if ((cond==true)) {
   console.log('The cond variable is false');
 }
 ```
+
 **OR
+
 ```javascript
 var cond = false;
 
@@ -44,6 +47,7 @@ if ((cond)) {
 }
 ```
 <h3>Bad Code 2</h3> 
+
 ```javascript
 var n = 100;
 
