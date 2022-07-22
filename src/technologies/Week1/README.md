@@ -15,7 +15,9 @@
 ```
 ***
 ## Wednesday
+
 <h3>Print special numbers</h3> 
+
 ```javascript
 for (var i=0; i<101;i++){
 	if (i % 2 == 0) console.log(i);
