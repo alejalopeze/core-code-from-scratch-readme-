@@ -11,12 +11,14 @@
 }
 ```
  
+<h3>ASCII Total</h3>
 
- 
-
-
-## Result
-
-
-
-<h3>Interpreted And Compiled Programming Languages</h3>
+```javascript
+function uniTotal(str) {
+  let test = 0;
+  for (let i = 0, length = str.length; i < length; i++) {
+    test += str[i].charCodeAt();
+  }
+  return test;
+}
+```
