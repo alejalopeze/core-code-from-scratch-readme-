@@ -3,13 +3,15 @@
   
  ## Tuesday
  
+ <h3>Multiply</h3>
+ 
 ```javascript
  function multiply(a, b) {
   return a * b;
 }
 ```
  
-<h3>Multiply</h3>
+
  
 
 
