@@ -22,3 +22,12 @@ function uniTotal(str) {
   return test;
 }
 ```
+## Wednesday
+ 
+ <h3>Char From ASCII Value</h3>
+
+```javascript
+function getChar(c){
+  return String.fromCharCode(c);
+}
+```
