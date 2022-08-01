@@ -106,16 +106,43 @@ function persistence(num) {
 <h3>Holiday VIII - Duty Free</h3>
 
 ```javascript
+function dutyFree(normPrice, discount, hol){
+return Math.trunc(hol/(normPrice*discount)*100);
+}
 ```
 <h3>Twice As Old </h3> 
 
 ```javascript
+function twiceAsOld(dadYearsOld, sonYearsOld) {
+  return Math.abs(dadYearsOld - (2 * sonYearsOld));
+}
 ```
 <h3>Valid Spacing</h3>
 
 ```javascript
+function validSpacing(s) {
+  if (s.length === 0) return true;
+  if (s[0] === ' ' || s[s.length - 1] === ' ') return false;
+  let Spaces = s.split(' ');
+  for (let i = 0, length = Spaces.length; i < length; i++) {
+    if (Spaces[i] === '') return false;
+  }
+  return true;
+}
 ```
 <h3>Fake Binary</h3>
 
 ```javascript
+function fakeBin(x){
+let a =[];
+let result='';
+a = x.toString().split('');
+for(let i=0; i< a.length; i++){
+  if(a[i]<5){
+  result=result+0;
+  }else{
+  result=result+1;}
+ } 
+return result;
+}
 ```
