@@ -101,3 +101,21 @@ function persistence(num) {
   return a;
 }
 ```
+## Extras
+
+<h3>Holiday VIII - Duty Free</h3>
+
+```javascript
+```
+<h3>Twice As Old </h3> 
+
+```javascript
+```
+<h3>Valid Spacing</h3>
+
+```javascript
+```
+<h3>Fake Binary</h3>
+
+```javascript
+```
